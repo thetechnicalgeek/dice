@@ -21,3 +21,5 @@ while roll_dice:
     else:
         roll_dice=False
         print(" thanks for playing ")
+
+        #it will work fine copy and paste it .
